@@ -4,8 +4,8 @@
         "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
         "code": "MECH"
     },
-    "lab": "Heat Transfer Lab",
-    "lab_display_name": "Heat Transfer Lab",
+    "lab": "Heat Transfer",
+    "lab_display_name": "Heat Transfer",
     "phase": "3-ext",
     "collegeName": "NITK",
     "baseUrl": "ht-nitk.vlabs.ac.in",
