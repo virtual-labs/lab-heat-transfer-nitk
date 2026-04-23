@@ -15,70 +15,70 @@
     "name": "Thermal Conductivity of Metal Rod",
     "short-name": "thermal-conductivity-metal-rod",
     "repo": "https://github.com/virtual-labs/exp-thermal-conductivity-metal-rod-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Thermal Conductivity of Liquid",
     "short-name": "thermal-conductivity-liquid",
     "repo": "https://github.com/virtual-labs/exp-thermal-conductivity-liquid-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Thermal Conductivity of Insulating Material",
     "short-name": "thermal-conductivity-insulating-material",
     "repo": "https://github.com/virtual-labs/exp-thermal-conductivity-insulating-material-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Heat Transfer Coefficient of a Composite wall",
     "short-name": "composite-wall",
     "repo": "https://github.com/virtual-labs/exp-composite-wall-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Heat Transfer Coefficient in Natural Convection",
     "short-name": "natural-convection",
     "repo": "https://github.com/virtual-labs/exp-natural-convection-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Critical Heat Flux",
     "short-name": "critical-heat-flux",
     "repo": "https://github.com/virtual-labs/exp-critical-heat-flux-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Emissivity of Surface",
     "short-name": "emissivity-of-surface",
     "repo": "https://github.com/virtual-labs/exp-emissivity-of-surface-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Stefan Boltzmann Constant",
     "short-name": "stefan-boltzmann-constant",
     "repo": "https://github.com/virtual-labs/exp-stefan-boltzmann-constant-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Heat Transfer Coefficient in Forced Convection",
     "short-name": "forced-convection",
     "repo": "https://github.com/virtual-labs/exp-forced-convection-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Heat Exchangers",
     "short-name": "heat-exchangers",
     "repo": "https://github.com/virtual-labs/exp-heat-exchangers-nitk",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
